@@ -18,13 +18,21 @@ Ich bau coole Sachen – und zwar mit **Ideen, Humor und ganz viel KI-Unterstüt
 
 ---
 
-## 🛠️ Tools, die ich benutze
+## 📊 Entwickler-Sprachenprofil
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=fff)
-![Chrome Extension](https://img.shields.io/badge/-Chrome%20Extensions-4285F4?style=flat&logo=google-chrome&logoColor=fff)
+```text
+🧠 Dart       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░          47.0%
+🚀 C++        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░          26.6%
+🔧 CMake      ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░          20.9%
+🍎 Swift      ▓▓░░░░░░░░░░░░░░░░░░░░░░░░           2.6%
+🧬 C          ▓░░░░░░░░░░░░░░░░░░░░░░░░░           1.5%
+🌐 HTML       ▓▓░░░░░░░░░░░░░░░░░░░░░░░░░          8.4%
+📦 Other      ░░░░░░░░░░░░░░░░░░░░░░░░░░           0.1%
+
+🌟 JavaScript ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░      68.1%
+🎨 CSS        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░         24.8%
+
+📱 Kotlin     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓        100.0%
 
 ---
 
