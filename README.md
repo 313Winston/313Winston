@@ -1,4 +1,4 @@
-# 👋 Hey, ich bin Robin
+# 👋 Hey, ich bin Winston
 
 ## 🧠 KI-Skripter aus Leidenschaft
 
